@@ -3,7 +3,7 @@ These files are the accompanying data sets and simulation files for the study.
 
 The online supplement contains the full tables of the Type I error of the Wald tests, and the full trellis power plots. 
 
-Within the data folder, you can find the estimated power from the simulations as well as the data set used in the real data example. For the estimated Type I error tables, please see the online supplement. 
+Within the data folder, you can find the estimated power from the simulations as well as the data set used in the real data example. For the estimated Type I error tables, please see the online supplement. The alternative priors csv is for the simulations ran with the varrying priors.
 
 The simulation scripts folder contains the shell code that we used to run the simulations, as well as other accompanying scripts.
 Within the simulations scripts folder:
